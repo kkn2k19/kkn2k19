@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Karan Kumar Nonia</h1>
 <h3 align="center">A passionate Competitive Coder from Dhanbad, Jharkhand, India</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkn2k19&label=Profile%20views&color=0e75b6&style=flat" alt="kkn2k19" /> </p>
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
 - 🌱 I’m currently learning **Object Oriented Programming(with Java)**
 
-- 👨‍💻 All of my projects are available at [Link Not Available for Now](Link Not Available for Now)
-
-- 💬 Ask me about **C, Cpp, Java**
+- 💬 Ask me about **C, Cpp, Java, Python, DSA**
 
 - 📫 How to reach me **kkn2k19@gmail.com**
 
+- 👨‍💻 All of my projects are available at [Link Not Available for Now](Link Not Available for Now)
+
 - 📄 Know about my experiences [Link Not Available for Now](Link Not Available for Now)
 
-- ⚡ Fun fact **I think my life is a fun**
+- ⚡ Fun fact **I think my life is fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
