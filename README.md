@@ -36,6 +36,6 @@
 
 <p>&nbsp;<img align="right" width="450" height="300" src="https://github-readme-stats.vercel.app/api?username=kkn2k19&show_icons=true&locale=en" alt="kkn2k19" /></p>
 
-<p><img align="left" width="450" height="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkn2k19&theme=tokyonight" alt="kkn2k19"></p>
+<p><img align="left" width="450" height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkn2k19&theme=tokyonight" alt="kkn2k19"></p>
 
 <p><img align="right" width="450" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=kkn2k19&" alt="kkn2k19" /></p>
