@@ -64,6 +64,9 @@
 
 -->
 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkn2k19&label=Profile%20views&color=0e75b6&style=flat" alt="kkn2k19" />  </p>
 <p>Hii!<br>
 It's me Karan <br>
 Welcome Back </p>
