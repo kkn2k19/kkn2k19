@@ -20,7 +20,7 @@
 - 🔐 [**User Authentication System**](https://github.com/kkn2k19/User_Authentication_System) – JWT Auth, BCrypt, Role-Based Access  
 - 🍴 [**Food Management App**](https://github.com/kkn2k19/FoodApp) – Full-stack ordering platform (React + Spring Boot)  
 - 🔄 [**SwapSphere**](https://github.com/kkn2k19/SwapSphere) – C2C Exchange Platform (Final Year Project, in progress)
-- <!-- 📊 [**Medical Insurance Cost Prediction**](https://github.com/kkn2k19/Medical-Insurance-Cost-Prediction-FSP-PROJECT-ML-with-Python-) – ML with Python -->
+ <!-- 📊 [**Medical Insurance Cost Prediction**](https://github.com/kkn2k19/Medical-Insurance-Cost-Prediction-FSP-PROJECT-ML-with-Python-) – ML with Python -->
 
 ---
 
@@ -32,8 +32,8 @@
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/karan-kumar-nonia/)  
-- <!--[Portfolio](https://kkn2k19.wordpress.com)  -->
-- <!-- [Stack Overflow](https://stackoverflow.com/users/30910098/karan-kumar-nonia)  -->
+ <!--[Portfolio](https://kkn2k19.wordpress.com)  -->
+ <!-- [Stack Overflow](https://stackoverflow.com/users/30910098/karan-kumar-nonia)  -->
 
 ---
 
