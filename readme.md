@@ -21,9 +21,9 @@
 - 🍴 [**Food Management App**](https://github.com/kkn2k19/FoodApp) – Full-stack ordering platform (React + Spring Boot)  
 - 🔄 [**SwapSphere**](https://github.com/kkn2k19/SwapSphere) – C2C Exchange Platform (Final Year Project, in progress)
  <!-- 📊 [**Medical Insurance Cost Prediction**](https://github.com/kkn2k19/Medical-Insurance-Cost-Prediction-FSP-PROJECT-ML-with-Python-) – ML with Python -->
-
----
 <!--
+---
+
 ## 📈 GitHub Stats
 ![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkn2k19&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkn2k19&layout=compact&theme=tokyonight)  
