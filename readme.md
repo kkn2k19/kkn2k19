@@ -6,7 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=kkn2k19&label=Profile%20views&color=0e75b6&style=flat" alt="kkn2k19" />  
 </p>
 
+<!--
 ---
+-->
 
 ## 🚀 Tech Stack
 - **Languages:** Java, C, JavaScript  
@@ -14,7 +16,9 @@
 - **Frontend:** ReactJS, HTML, CSS, Tailwind CSS  
 - **Other Tools:** Git, GitHub, Postman, VS Code, Maven  
 
+<!--
 ---
+-->
 
 ## 🌟 Featured Projects
 - 🔐 [**User Authentication System**](https://github.com/kkn2k19/User_Authentication_System) – JWT Auth, BCrypt, Role-Based Access  
@@ -35,6 +39,8 @@
  <!--[Portfolio](https://kkn2k19.wordpress.com)  -->
  <!-- [Stack Overflow](https://stackoverflow.com/users/30910098/karan-kumar-nonia)  -->
 
+<!--
 ---
+-->
 <!--
 ✨ _"Passionate about solving problems, building scalable systems, and becoming a top-tier Full Stack Java Developer."_ ✨
